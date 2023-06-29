@@ -1,7 +1,7 @@
 # MOVIEWORLD
 
 <p align="center" >
-<img style="background-color: #fff; border-radius: 50%;" src="https://github.com/MadurangiJayathissa/Real-Textile/blob/main/ss.jpeg" width="75%" height="30%">
+<img style="background-color: #fff; border-radius: 50%;" src="https://github.com/MadurangiJayathissa/MOVIEWORLD/blob/main/ss.png" width="75%" height="30%">
 </p>
 
 
